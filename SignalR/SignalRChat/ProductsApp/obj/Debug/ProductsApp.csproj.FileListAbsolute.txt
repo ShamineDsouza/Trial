@@ -1,0 +1,14 @@
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\ProductsApp.dll.config
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\ProductsApp.dll
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\ProductsApp.pdb
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\Newtonsoft.Json.dll
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\System.Web.Http.dll
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\Newtonsoft.Json.xml
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\System.Web.Http.xml
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\obj\Debug\ProductsApp.dll
+D:\Shamine\Personal\Trial\SignalR\SignalRChat\ProductsApp\obj\Debug\ProductsApp.pdb
